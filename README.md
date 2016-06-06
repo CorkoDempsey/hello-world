@@ -1,4 +1,4 @@
-# hello-world
+# hello-world 2
 
 "LOADING_REWARD","Attendez, votre récompense de Kiip télécharger"
 "EARNED_REWARD","Vous avez gagner une récompense de Kiip"
